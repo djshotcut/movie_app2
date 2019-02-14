@@ -17,7 +17,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://djshotcut.github.io/movie_app",
+  "homepage": "https://djshotcut.github.io/movie_app1",
   "eslintConfig": {
     "extends": "react-app"
   },
